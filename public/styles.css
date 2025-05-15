@@ -1,0 +1,45 @@
+/* styles.css */
+:root {
+    --primary-color: #a0c878; /* Custom color */
+    --secondary-color: #ddeb9d;
+    --color2-color: #fafge9;
+    --color3-color: #fffdfg;
+    --color4-color: #333;
+    --color5-color: #222;
+
+  }
+  
+  .bg-primary {
+    background-color: var(--primary-color);
+  }
+  .bg-secondary {
+    background-color: var(--secondary-color);
+  }
+  .bg-2 {
+    background-color: var(--color2-color);
+  }
+  .bg-3 {
+    background-color: var(--color3-color);
+  }
+  
+  .text-color1{
+    color: var(--color4-color);
+  }
+  .text-color2{
+    color: var(--color5-color);
+  }
+  .text-color3{
+    color: var(--primary-color);
+  }
+  .text-color4{
+    color: var(--secondary-color);
+  }
+  .text-color5{
+    color: var(--color3-color);
+  }
+
+  body {
+    background-color: var(--color3-color);
+  }
+  
+  
